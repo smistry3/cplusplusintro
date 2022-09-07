@@ -1,0 +1,10 @@
+Alison Barry, 100, 60, 20
+Barry Candace, 1.4e+02, 64, 24
+David Edison, 1.9e+02, 67, 30
+Edison Frank, 2.5e+02, 74, 32
+Candace David, 2e+02, 75, 25
+Frank Leslie, 1.6e+02, 59, 32
+Leslie Rose, 1.4e+02, 59, 27
+Rose Harry, 1.6e+02, 71, 22
+Carrie Alison, 1.2e+02, 70, 17
+Harry Ian, 2.2e+02, 70, 32
